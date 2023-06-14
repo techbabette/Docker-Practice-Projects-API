@@ -4,12 +4,13 @@
   "description": "NodeJS Backend for Portfolio Project",
   "main": "index.js",
   "scripts": {
-    "start" : "node index.js",
-    "dev" : "nodemon -L index.js"
+    "start": "node index.js",
+    "dev": "nodemon -L index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2"
   },
   "devDependencies": {
