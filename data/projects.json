@@ -6,7 +6,7 @@
         "Year of development" : "2023",
         "Github link": "https://github.com/techbabette/NYCEstateE",
         "Hosted link": "https://nycestate.000webhostapp.com/",
-        "Preview image link": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg",
+        "Preview image link": "https://i.imgur.com/PHQsoO9.png",
         "Technologies": [
             "PHP",
             "MySQL",
@@ -21,7 +21,7 @@
         "Year of development" : "2023",
         "Github link": "https://github.com/techbabette/library-site",
         "Hosted link": "https://techbabette.github.io/library-site/",
-        "Preview image link": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg",
+        "Preview image link": "https://i.imgur.com/08RsNTm.png",
         "Technologies": [
             "Javascript",
             "jQuery",
@@ -34,7 +34,7 @@
         "Description": "Multiplayer Advanced Rock Paper Scissors",
         "Year of development" : "2022",
         "Github link": "https://github.com/techbabette/Advanced-Rock-Paper-Scissors",
-        "Preview image link": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg",
+        "Preview image link": "https://i.imgur.com/jwRSHbw.png",
         "Technologies": [
             "NodeJS",
             "Socket.io"
@@ -46,7 +46,7 @@
         "Description": "Allows users to practice any of the languages available in the wordlists folder",
         "Year of development" : "2022",
         "Github link": "https://github.com/techbabette/Personal-Anki",
-        "Preview image link": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg",
+        "Preview image link": "https://i.imgur.com/VmWEdaL.png",
         "Technologies": [
             "Python"
         ]
@@ -57,7 +57,7 @@
         "Description": "A scalable database complete with, activity logging, triggers, users, optimum design and easy to read documentation",
         "Year of development" : "2022",
         "Github link": "https://github.com/techbabette/library-database",
-        "Preview image link": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg",
+        "Preview image link": "https://i.imgur.com/DUkozlD.png",
         "Technologies": [
             "MSSQL"
         ]
